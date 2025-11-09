@@ -20,7 +20,7 @@
 - USB 카메라 (V4L2 호환)
 
 * 회로도
-<img width="862" height="423" alt="스크린샷 2025-11-07 221245" src="https://github.com/user-attachments/assets/54b4467a-3966-499c-a597-446f46a23100" />
+![회로도](./회로도.png)
 
 ---
 
